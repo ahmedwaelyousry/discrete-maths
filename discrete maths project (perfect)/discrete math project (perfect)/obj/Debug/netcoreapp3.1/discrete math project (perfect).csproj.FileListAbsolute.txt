@@ -1,0 +1,14 @@
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).exe
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).deps.json
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).runtimeconfig.json
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).runtimeconfig.dev.json
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).dll
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\bin\Debug\netcoreapp3.1\discrete math project (perfect).pdb
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).AssemblyInfoInputs.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).AssemblyInfo.cs
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).csproj.CoreCompileInputs.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).dll
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).pdb
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).genruntimeconfig.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete math project (perfect)\discrete math project (perfect)\obj\Debug\netcoreapp3.1\discrete math project (perfect).csproj.AssemblyReference.cache

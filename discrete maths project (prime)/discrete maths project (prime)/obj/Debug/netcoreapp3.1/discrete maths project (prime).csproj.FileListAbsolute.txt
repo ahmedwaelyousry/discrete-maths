@@ -1,0 +1,14 @@
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).exe
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).deps.json
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).runtimeconfig.json
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).runtimeconfig.dev.json
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).dll
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\bin\Debug\netcoreapp3.1\discrete maths project (prime).pdb
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).csproj.AssemblyReference.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).AssemblyInfoInputs.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).AssemblyInfo.cs
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).csproj.CoreCompileInputs.cache
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).dll
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).pdb
+C:\Users\TiGeR-SToRe\source\repos\discrete maths project (prime)\discrete maths project (prime)\obj\Debug\netcoreapp3.1\discrete maths project (prime).genruntimeconfig.cache
